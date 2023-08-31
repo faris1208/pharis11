@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+.box{
+    width: 80%;
+    margin: auto;
+    
+}
+
+#output1{
+    width: 80%;
+    height: 200px;
+    border: 2px solid gray;
+    margin: 20px 0px;
+}
+
+.red{
+    margin: 20px 0px;
+   
+}
+
+.red input{
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 8px;
+    background-color: aqua;
+    color: red;
+    /* margin: 0;
+    padding: 0; */
+}
+
+/* #text textarea{
+    width: 400px;
+    height: 400px;
+     margin: 0;
+    padding: 0;
+}  */
+
+#save{
+    margin: 0px 0px 20px;
+}
+
+#save input{
+    width: 100px;
+    height: 40px;
+    background-color: burlywood;
+    border: none;
+    border-radius: 8px;
+}
